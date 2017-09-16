@@ -1,2 +1,4 @@
 # discord-random-text-gen
-The Discord Bot for generating random text.
+A Discord Bot for generating random text.
+
+# How to Host the Bot (LOCAL)
