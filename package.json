@@ -1,0 +1,13 @@
+{
+  "name": "discord-random-text-gen",
+  "description": "A Discord.js random text generator bot.",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
